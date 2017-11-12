@@ -1,0 +1,4 @@
+export const SET_PRODUCT_LIST = "SET_PRODUCT_LIST";
+export const SET_PRODUCT = "SET_PRODUCT";
+export const SET_ORDER_ID = "SET_ORDER_ID";
+export const SET_PROCESSING_STATUS = "SET_PROCESSING_STATUS";
